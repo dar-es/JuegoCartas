@@ -30,7 +30,7 @@ class Carta {
     }
 }
 
-public class JuegoApuntado {
+public class FuncionesExtra {
 
     // Función para obtener las escaleras por pinta
     public static List<List<Carta>> obtenerEscaleras(List<Carta> cartas) {
